@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <h3 align="left">Languages and Tools:</h3>
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/"><h2>💻 Languages and Tools</h2></a>
   <p align="left">
     <a href="https://firebase.google.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
